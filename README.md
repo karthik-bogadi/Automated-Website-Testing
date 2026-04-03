@@ -1,4 +1,4 @@
-<img width="1501" height="855" alt="pic 1" src="https://github.com/user-attachments/assets/144fabec-dfc0-4827-bfbb-4d9b67b20ecf" /># 🤖 AI Agent for Automated Website Testing
+# 🤖 AI Agent for Automated Website Testing
 
 ## 📌 Overview
 
